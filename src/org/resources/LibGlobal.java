@@ -1,7 +1,10 @@
 package org.resources;
 
 public class LibGlobal {
-  private void bala() {
-System.out.println("bala");
+  public void userName() {
+     System.out.println("bala");
+}
+  public static void main(String[] args) {
+	
 }
 }
